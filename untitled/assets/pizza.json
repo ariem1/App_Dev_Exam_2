@@ -1,0 +1,70 @@
+[
+    {
+        "pizza_id": 1,
+	"image": "fourcheese",
+        "name": "Four Cheese Pizza",
+        "ingredients": "Mozzarella, cheddar, gorgonzola, and parmesan",
+        "price": {
+            "small": 10.0,
+            "medium": 15.0,
+            "large": 20.0
+        },
+        "extra": {
+            "small": 1.5,
+            "medium": 2.0,
+            "large": 3.0
+        },
+        "add": ["Cheese", "Red Pepper", "Spinach"]
+    },
+    {
+        "pizza_id": 2,
+	"image": "hawaiian",
+        "name": "Hawaiian Pizza",
+        "ingredients": "Ham, pineapple, and mozzarella",
+        "price": {
+            "small": 10.0,
+            "medium": 15.0,
+            "large": 20.0
+        },
+        "extra": {
+            "small": 1.5,
+            "medium": 2.0,
+            "large": 3.0
+        },
+        "add": ["Cheese", "Red Pepper", "Spinach"]
+    },
+    {
+        "pizza_id": 3,
+	"image": "pepperoni",
+        "name": "Pepperoni Pizza",
+        "ingredients": "Topped with mozzarella and pepperoni slices",
+        "price": {
+            "small": 10.0,
+            "medium": 15.0,
+            "large": 20.0
+        },
+        "extra": {
+            "small": 1.5,
+            "medium": 2.0,
+            "large": 3.0
+        },
+        "add": ["Cheese", "Red Pepper", "Spinach"]
+    },
+    {
+        "pizza_id": 4,
+	"image": "meatlover",
+        "name": "Meat Lover's Pizza",
+        "ingredients": "Loaded with sausage, pepperoni, bacon, and ham",
+        "price": {
+            "small": 10.0,
+            "medium": 15.0,
+            "large": 20.0
+        },
+        "extra": {
+            "small": 1.5,
+            "medium": 2.0,
+            "large": 3.0
+        },
+        "add": ["Cheese", "Red Pepper", "Spinach"]
+    }
+]
